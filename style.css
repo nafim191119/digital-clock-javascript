@@ -126,11 +126,11 @@
         background: linear-gradient(45deg, #08001f, #30197d);
         color: #fff;
         position: relative;
-        padding: 20px auto;
+        padding: 60px auto;
     }
     .container {
-        width: 500px;
-        height: 150px;
+        width: 450px;
+        height: 120px;
         position: absolute;
         top: 50%;
         left: 50%;
